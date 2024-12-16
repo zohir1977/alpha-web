@@ -1,0 +1,34 @@
+body{
+    background-color: #78d8df;
+    width: 60%;
+    margin: 20px auto;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-right: 10px;
+}
+
+section p img {
+    float: left;
+    width: 250px;
+    height: auto;
+    margin-right: 25px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
